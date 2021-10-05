@@ -1,4 +1,4 @@
-# Fundamentals of Interaction Design / Grundlagen Interaktiver Gestaltung IA2
+# Physical Interfaces IA3
 
 ## Physical interaction with P5.js, Arduino and the Grove Starter Kit
 You will learn how to sense and control things in your real world environment by connection a Arduino microcontroller to your Mac/PC, attach sensors and actuators and writing the code necessary to let all of them commmunicate.
@@ -8,6 +8,7 @@ For this course you will need
 * Ardunio UNO, Seedunio, Funduino UNO or similar
 * USB Data Cable for your Arduino. __Attention: Many USB Cable are only for charging, not for Data!__
 * [Seeed Studio Grove - Starter Kit for Arduino](https://www.seeedstudio.com/Grove-Starter-Kit-for-Arduino-p-1855.html)
+* [Further Seeed Studio parts we have in our lab](https://cloud.hs-augsburg.de/s/SNKnRer43cYLfeo)
 
 ### Environment
 * Download and install the Arduino IDE from [Arduino.cc](https://www.arduino.cc/en/Main/Software) - on Mac, drag the software to your Applications Folder
