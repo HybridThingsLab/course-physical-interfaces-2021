@@ -1,4 +1,4 @@
-# TEACHABLE MACHINES
+# Physical Interfaces / AUTOMATA
 course Physical Interfaces IA3 winter-term 2021/2022 
 
 [Andreas Muxel](https://www.andreasmuxel.com/teaching/), University of Applied Sciences Augsburg, [Faculty of Design](https://www.hs-augsburg.de/Gestaltung.html)
