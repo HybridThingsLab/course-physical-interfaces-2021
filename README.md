@@ -5,6 +5,9 @@ course Physical Interfaces IA3 winter-term 2021/2022
 
 * [Block I (AUTOMATE)](https://github.com/HybridThingsLab/course-physical-interfaces-2021/tree/master/Block_I)
 
+* [Block II (ROBOTICS & EMBODIED INTERACTION)](https://github.com/HybridThingsLab/course-physical-interfaces-2021/tree/master/Block_II)
+
+
 
 ### Code Repository
 There will be a bunch of examples coming the next weeks. There is an update of this repository from time to time to correct bugs or add new examples. There are two ways to get all these files.
