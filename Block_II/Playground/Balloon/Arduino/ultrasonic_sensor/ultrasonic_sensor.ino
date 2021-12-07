@@ -1,7 +1,7 @@
 // ultrasonic sensors
 #include "Ultrasonic.h" // downlaod library here: https://github.com/Seeed-Studio/Seeed_Arduino_UltrasonicRanger/archive/master.zip
-Ultrasonic ultrasonic_one(7);
-Ultrasonic ultrasonic_two(6);
+Ultrasonic ultrasonic_one(7); // set pin here
+Ultrasonic ultrasonic_two(5); // set pin here
 
 long RangeInCentimeters_one;
 long RangeInCentimeters_two;
