@@ -6,7 +6,7 @@ let json;
 let wind_speed = "no data";
 let wind_direction = "no data";
 let currentCity = "Tokio";
-let APPID = "xxx"; // your API key from https://home.openweathermap.org/;
+let APPID = ""; // your API key from https://home.openweathermap.org/;
 
 
 function setup() {
